@@ -1,9 +1,9 @@
 ---
-title: Blog Post Test
+title: Blog Post Test 1
 date: 2023-12-26
 description: Just a test
 categories:
--friends
+ -friends
 image: https://wallpapers.com/images/hd/wooden-cottage-sea-high-resolution-d7fahhz6phtkdveh.jpg
 author_staff_member: Amina
 ---
