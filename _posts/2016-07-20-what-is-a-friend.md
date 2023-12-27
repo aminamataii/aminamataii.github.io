@@ -1,6 +1,6 @@
 ---
 title: What is a friend?
-date: 12/16/2023
+date: 2023-12-26
 description: Exploring the mechanics of friendship
 categories:
   - friends
