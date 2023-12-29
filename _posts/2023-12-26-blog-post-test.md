@@ -1,18 +1,29 @@
 ---
-title: Blog Post Test 1
+title: My First Post!
 date: 2023-12-26
-description: Just a test?
+description: The Start of my Journey
 categories:
- Friends
+ First Post!
 image: https://wallpapers.com/images/hd/wooden-cottage-sea-high-resolution-d7fahhz6phtkdveh.jpg
 author_staff_member: Amina
 ---
-Testing Testing 1 2 3, blog post no.1 
+Hello there wonderful readers! I'm Amina Matai and I am thrilled to welcome you to my corner of the internet-Amina's Super Awesome Blog. As I type these words, I can't help but feel a surge of excitement ahout the journey we're about to embark on together. I created this blog as a project of mine. I will be updating this blog weekly with a variety of posts. Keep on the lookout for any updates! Thank you for reading :) 
 
 ![testing](https://wallpapers.com/images/hd/high-resolution-farmhouse-by-lake-er08n33kr7ulrakb.jpg)
 
-## Heading Test
+## A little about the Creator
 
-something something something very interesting oooooohhhhh..... will it work???
+A bit about me: I've always been passionate about _. Whether it's _ or __, this is where my hear lies. Through Amina's super awesome blog I aim to create a space where we can dive into the facinating world of _. Expect to find informative articles, personal reflections, analysis's and how-to guides all crafter with the intention of inspiring,entertaining and educating. My mission is to create and sustain a blog that others would read and enjoy as well. 
 
-![testingsecond](httpwallpapers.com/images/featured/high-resolution-gfinds1akzwf6vcq.jpg)
+![testingsecond](http://wallpapers.com/images/featured/high-resolution-gfinds1akzwf6vcq.jpg)
+
+## Why am I doing this?
+
+Well, besides my love for _, I am genuinely excited about connecting with each of you. Whether you're a _ enthusiast or just starting to dip your toes into this world, Amina's super awesome blog is for you. I want this to be a community where we can share our experiences, learn from each other, and foster a sense of belonging. 
+
+So, buckle up, fellow _ enthusiasts! Let's start this adventure together. I can't wait to explore, discover and grow with all of you. 
+
+Here's to new beginnings and the exciting journey ahead!
+
+    Cheers,
+    Amina Matai
