@@ -1,7 +1,7 @@
 ---
 name: Amina Matai
-position: Marketing
+position: Owner
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-twitter_username: CloudCannon
-blurb: Amina likes long walks on the beach and buffet breakfast.
+twitter_username: N/A
+blurb: Amina is in highschool and is the creator and manager of this website
 ---
