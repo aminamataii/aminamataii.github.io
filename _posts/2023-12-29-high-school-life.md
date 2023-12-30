@@ -1,5 +1,5 @@
 ---
-title: High School Life!
+title: High School Lif
 date: 2023-12-29
 description: High School Life in California
 categories:
