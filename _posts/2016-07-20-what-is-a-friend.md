@@ -7,7 +7,7 @@ categories:
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
 author_staff_member: Amina
 ---
-Music, a universal language that transcends borders and cultures, holds a deep impact on our lives. Whether actively engaged in playing instruments or being immersed in the art of listening, music enrichws our existence in ways that extend beyond mere entertainment. In today's post, we delve into the significance of music-exploring the power of both playing instruments and indulging in the act of listening. 
+Music, a universal language that transcends borders and cultures, holds a deep impact on our lives. Whether actively engaged in playing instruments or being immersed in the art of listening, music enrichws our existence in ways that extend beyond mere entertainment and the result of your spotify wrapped. In today's post, we delve into the significance of music-exploring the power of both playing instruments and indulging in the act of listening. 
 
 ![Checkmate](https://source.unsplash.com/random/1500x1000)replace with holding violin img
 
