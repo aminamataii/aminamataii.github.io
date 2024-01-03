@@ -9,7 +9,7 @@ author_staff_member: Amina
 ---
 Music, a universal language that transcends borders and cultures, holds a deep impact on our lives. Whether actively engaged in playing instruments or being immersed in the art of listening, music enrichws our existence in ways that extend beyond mere entertainment and the result of your spotify wrapped. In today's post, we delve into the significance of music-exploring the power of both playing instruments and indulging in the act of listening. 
 
-![Checkmate](https://source.unsplash.com/random/1500x1000)replace with holding violin img
+![Checkmate](https://raw.githubusercontent.com/aminamataii/aminamataii.github.io/main/images/websiteimg4.JPG)
 
 ## Playing Instruments: A Symphony of Self-Expression
 
@@ -19,13 +19,13 @@ Moreover, the act of playing instruments fosters a sense of accomplishment, boos
 
 ## Listening to Music: A Euphoric Escape
 
-![Raspberries](https://source.unsplash.com/random/1500x1001)
+![Raspberries](https://images.unsplash.com/photo-1526142684086-7ebd69df27a5?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHZpb2xpbnxlbnwwfHwwfHx8MA%3D%3D)
 
 The act of listening holds its own power. Beyond its entertainment value, music serves as an escape from the hardships of daily life. Whether seeking solace in a melancholic melody or finding motivation in an upbeat rhythm, the emotional resonance of music can provide comfort and support. 
 
 Scientifically, music has been proven to influence mood, reduce stress, and even enhance productivity. The melodic patterns and compositions stimulate the brain contributing to an improved mental well-being. From classical compositions to contemporary beats, the diversity of musical genres ensures there's a tune for every emotion and feeling. 
 
-![Blueberries](img.com)
+![Blueberries](https://images.unsplash.com/photo-1527150122806-f682d2fd8b09?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGxpc3RlbmluZyUyMHRvJTIwbXVzaWN8ZW58MHx8MHx8fDA%3D)
 
 ## The Art of Playing and Listening
 
