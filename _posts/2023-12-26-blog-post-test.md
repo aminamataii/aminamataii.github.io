@@ -7,6 +7,8 @@ categories:
 image: https://wallpapers.com/images/hd/wooden-cottage-sea-high-resolution-d7fahhz6phtkdveh.jpg
 author_staff_member: Amina
 ---
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-L3ZFHQZQXL"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-L3ZFHQZQXL'); </script>
+
 Hello there wonderful readers! I'm Amina Matai and I am thrilled to welcome you to my corner of the internet-Amina's Super Awesome Blog. As I type these words, I can't help but feel a surge of excitement ahout the journey we're about to embark on together. I created this blog as a project of mine. I will be updating this blog weekly with a variety of posts. Keep on the lookout for any updates! Thank you for reading :) 
 
 ![testing](https://wallpapers.com/images/hd/high-resolution-farmhouse-by-lake-er08n33kr7ulrakb.jpg)
