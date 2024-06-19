@@ -7,10 +7,6 @@ left_links:
     link: /contact/
 right_links:
   - name:
-    link: https://facebook.com
-    new_window: true
-    social_icon: Facebook
-  - name:
     link: https://twitter.com/aminamisthebest
     social_icon: Twitter
     new_window: true
